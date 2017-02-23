@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Any time you're working on a new feature.  Actually, it just seems better to always work in a branch to keep master clean
